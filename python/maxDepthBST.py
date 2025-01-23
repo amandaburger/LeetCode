@@ -17,5 +17,6 @@ class Solution:
 
         return max(lHeight, rHeight) + 1
 
+
         
         
