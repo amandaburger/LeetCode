@@ -1,4 +1,5 @@
 valid anagram- sort strings and make sure they r the same
 valid parentheses: stack, create helper to match pathenses (pairs)
+reverse string: loop through string backwards, dont add if its empty, remove space at end 
 
 is palindrome- make first counter str/2, compare first char and last, count up and count down, 
