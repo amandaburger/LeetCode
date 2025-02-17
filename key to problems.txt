@@ -1,6 +1,7 @@
 valid anagram- sort strings and make sure they r the same
 valid parentheses: stack, create helper to match pathenses (pairs)
 reverse string: loop through string backwards, dont add if its empty, remove space at end 
+ simplify path-divide based on / and create a stack with words... if theres a .. remove one from stack, return whats left
 
 is palindrome- make first counter str/2, compare first char and last, count up and count down, 
 find kth largest- create a heap (heapify list), take the nth amount and make your heap that big, then keep adding rest of elements to heap, the last element in heap is 4th biggest
