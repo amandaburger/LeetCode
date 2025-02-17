@@ -3,3 +3,4 @@ valid parentheses: stack, create helper to match pathenses (pairs)
 reverse string: loop through string backwards, dont add if its empty, remove space at end 
 
 is palindrome- make first counter str/2, compare first char and last, count up and count down, 
+find kth largest- create a heap (heapify list), take the nth amount and make your heap that big, then keep adding rest of elements to heap, the last element in heap is 4th biggest
