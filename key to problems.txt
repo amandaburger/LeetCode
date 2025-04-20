@@ -5,3 +5,9 @@ reverse string: loop through string backwards, dont add if its empty, remove spa
 
 is palindrome- make first counter str/2, compare first char and last, count up and count down, 
 find kth largest- create a heap (heapify list), take the nth amount and make your heap that big, then keep adding rest of elements to heap, the last element in heap is 4th biggest
+
+PYTHON
+rotate array: Given an integer array nums, rotate the array to the right by k steps, where k is non-negative.
+    get the amount u need to move k and do modulo n (in case its larger than k)
+    reverse the whole list, then reverse (revert back) in the spots they are supposed to [:k] and [k:]
+candy allocation:
